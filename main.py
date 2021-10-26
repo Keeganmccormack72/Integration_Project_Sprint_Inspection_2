@@ -1,6 +1,5 @@
 # Keegan McCormack
 #This will be a calculator for dieting and notes of what I learned in COP 1500
-import OutputDemo
 def main():
 #It enters main for call back later near the end of the project
     print("Welcome to my Integration Project!")
