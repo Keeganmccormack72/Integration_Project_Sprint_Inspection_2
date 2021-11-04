@@ -1,4 +1,5 @@
 # Keegan McCormack
+# An operating system is software that controls the hardware and is the connection between the user and hardware/software.
 # This will be a calculator for dieting and notes of what I learned in COP 1500
 def main():
     # It enters main for call back later near the end of the project
@@ -147,8 +148,6 @@ def main():
         continue_program = False
     else:
         print("Unknown Input. Try again")
-
-
 main()
 ####Notes for other requirements for the project#####
 fruit = input("Enter a word")
